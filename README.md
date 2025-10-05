@@ -9,11 +9,7 @@ practical experience gained through lab-based projects and security-focused cour
 broader cybersecurity community.
 
 ## Skills
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
-- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)  
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 - ![Nmap](https://img.shields.io/badge/Nmap-9E4784?style=for-the-badge&logo=nmap&logoColor=white)  
 - ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
 - ![Metasploit](https://img.shields.io/badge/Metasploit-FF5C57?style=for-the-badge&logo=metasploit&logoColor=white)  

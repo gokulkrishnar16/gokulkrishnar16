@@ -1,12 +1,14 @@
+
 # Hi, I'm Gokul Krishna R 👋
 
 I'm a cybersecurity student passionate about ethical hacking, penetration testing, and network security.
 
 ## Skills
-- ![Windows](https://img.icons8.com/ios-filled/20/4f9eed/windows.png) Windows  
-- ![Kali Linux](https://img.icons8.com/ios-filled/20/4f9eed/linux.png) Kali Linux  
-- ![Debian](https://img.icons8.com/ios-filled/20/4f9eed/linux.png) Debian  
-- ![Ubuntu](https://img.icons8.com/ios-filled/20/4f9eed/linux.png) Ubuntu  
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+- ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)  
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+
 - ![Nmap](https://img.shields.io/badge/Nmap-9E4784?style=for-the-badge&logo=nmap&logoColor=white)  
 - ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
 - ![Metasploit](https://img.shields.io/badge/Metasploit-FF5C57?style=for-the-badge&logo=metasploit&logoColor=white)  

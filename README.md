@@ -1,7 +1,12 @@
 
 # Hi, I'm Gokul Krishna R 👋
 
-I'm a cybersecurity student passionate about ethical hacking, penetration testing, and network security.
+Motivated cybersecurity student with hands-on practice in vulnerability scanning, penetration testing, and Capture the
+Flag (CTF) challenges. Skilled in using industry-standard tools such as Nmap, Burp Suite, Metasploit, Hydra, and John
+the Ripper within Linux environments (Kali, Ubuntu) for reconnaissance, exploitation, and system security analysis.
+Possess a strong foundation in network protocols, system administration, and information security principles, with
+practical experience gained through lab-based projects and security-focused coursework. Highly curious and detailoriented, with proven ability to learn quickly, adapt to new technologies, and apply knowledge to both individual research and team-based security tasks. Driven by a passion for ethical hacking, problem-solving, and continuous learning, and eager to contribute technical skills to real-world security projects, organizational defense strategies, and the
+broader cybersecurity community.
 
 ## Skills
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  

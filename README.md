@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gokul Krishna R 👋
 
-<!--
-**gokulkrishnar16/gokulkrishnar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity student passionate about ethical hacking, penetration testing, and network security.
 
-Here are some ideas to get you started:
+## Skills
+- Operating Systems: Windows, Kali Linux, Debian, Ubuntu
+- Tools: Nmap, Burp Suite, Metasploit, Hydra, Nikto
+- Programming: Bash, Python (basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- M E S College, Kunnukara (2019 - 2022)
+- Offenso Hackers Academy (2025 - Present)
+
+## Contact
+- Email: gokulkrishnar16@gmail.com
+- LinkedIn: [linkedin.com/in/gokul-krishna-r-06a45136a](https://www.linkedin.com/in/gokul-krishna-r-06a45136a)
+- GitHub: [github.com/gokulkrishnar16](https://github.com/gokulkrishnar16)
+
+Thank you for visiting my profile!

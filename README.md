@@ -17,7 +17,17 @@ I'm a cybersecurity student passionate about ethical hacking, penetration testin
 
 ## Education
 - M E S College, Kunnukara (2019 - 2022)  
-- Offenso Hackers Academy (2025 - Present)  
+- Offenso Hackers Academy (2025 - Present)
+
+-   ## GitHub Stats
+
+![Gokul Krishna R's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulkrishnar16&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&line_height=24)
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=gokulkrishnar16&style=flat&color=blue)
+
+
 
 ## Contact
 - ![Email](https://img.icons8.com/ios-filled/20/4f9eed/email.png) gokulkrishnar16@gmail.com  

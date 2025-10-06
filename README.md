@@ -1,30 +1,33 @@
+# Hi, I'm Gokul Krishna R 👋
 
-# 👋 Hi, I'm Gokul Krishna R  
+Motivated cybersecurity student with hands-on practice in vulnerability scanning, penetration testing, and Capture the
+Flag (CTF) challenges. Skilled in using industry-standard tools such as Nmap, Burp Suite, Metasploit, Hydra, and John
+the Ripper within Linux environments (Kali, Ubuntu) for reconnaissance, exploitation, and system security analysis.
+Possess a strong foundation in network protocols, system administration, and information security principles, with
+practical experience gained through lab-based projects and security-focused coursework. Highly curious and detailoriented, with proven ability to learn quickly, adapt to new technologies, and apply knowledge to both individual research and team-based security tasks. Driven by a passion for ethical hacking, problem-solving, and continuous learning, and eager to contribute technical skills to real-world security projects, organizational defense strategies, and the
+broader cybersecurity community.
 
-![Cybersecurity Banner](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/2c27b1f9-dd3f-4e35-a523-1c0fd379f859.png)
+## Skills
+!Windows !Kali Linux !Debian !Ubuntu !Nmap !Burp Suite !Metasploit !Hydra !Nikto
 
-### 🛡️ About Me  
-I'm a **motivated cybersecurity student** passionate about **ethical hacking, vulnerability assessment,** and **CTF challenges** 🚀. Skilled with tools like **Nmap**, **Burp Suite**, **Metasploit**, **Hydra**, and **John the Ripper**, I love exploring digital defenses and hacking techniques in Linux environments (Kali, Ubuntu).  
 
-### 🧰 Skills  
-![Animated Icons for Skills]  
-*(Use GIF icons or small animations for each skill badge if available)*
+## Education
+- M E S College, Kunnukara (2019 - 2022)  
+- Offenso Hackers Academy (2025 - Present)
 
-### 🎓 Education  
-- **M.E.S College, Kunnukara** (2019–2022)  
-- **Offenso Hackers Academy** (2025–Present)  
+-   ## GitHub Stats
 
-### 💻 GitHub Stats  
-![Gokul Krishna R's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokulkrishnar16&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&line_height=24)  
+!Gokul Krishna R's GitHub Stats
 
-### 🔥 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=gokulkrishnar16&style=flat&color=blue)  
+## Profile Views
 
-### 📫 Contact  
-- ![Animated Email Icon](your-gif-link.gif) [gokulkrishnar16@gmail.com](mailto:gokulkrishnar16@gmail.com)  
-- ![Animated LinkedIn Icon](your-gif-link.gif) [LinkedIn Profile](https://www.linkedin.com/in/gokul-krishna-r-06a45136a)  
-- ![Animated GitHub Icon](your-gif-link.gif) [GitHub Profile](https://github.com/gokulkrishnar16)  
+!Profile Views
 
----
 
-*🔒 "Hack to learn, learn to secure."*  
+
+## Contact
+- !Email gokulkrishnar16@gmail.com  
+- !LinkedIn linkedin.com/in/gokul-krishna-r-06a45136a  
+- !GitHub github.com/gokulkrishnar16  
+
+Thank you for visiting my profile! 

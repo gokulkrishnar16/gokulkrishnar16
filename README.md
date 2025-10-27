@@ -1,12 +1,14 @@
-
-# 👋 Hi, I'm Gokul Krishna R  
-💡 Aspiring Cybersecurity Professional | Ethical Hacker | CTF Enthusiast  
+<h1 align="center">👋 Hi, I'm Gokul Krishna R</h1>
+<h3 align="center">💡 Aspiring Cybersecurity Professional | Ethical Hacker | CTF Enthusiast</h3>
 
 ---
 
 ### 🛡️ About Me  
-I'm a **motivated cybersecurity student** with practical experience in vulnerability scanning, penetration testing, and Capture the Flag (CTF) challenges. I enjoy uncovering system weaknesses, learning how exploits work, and finding ways to secure digital environments.  
-Skilled in using industry-standard tools like **Nmap**, **Burp Suite**, **Metasploit**, **Hydra**, and **John the Ripper**, I conduct end-to-end security assessments on Linux systems (Kali, Ubuntu). My learning is fueled by curiosity, hands-on labs, and continuous exploration of real-world hacking scenarios.  
+I'm a **motivated cybersecurity student** with practical experience in vulnerability scanning, penetration testing, and Capture the Flag (CTF) challenges.  
+I enjoy uncovering system weaknesses, understanding how exploits work, and strengthening digital defenses.  
+
+💻 Skilled in tools such as **Nmap**, **Burp Suite**, **Metasploit**, **Hydra**, and **John the Ripper**, I perform complete security assessments on **Linux environments** (Kali, Ubuntu).  
+My learning thrives on curiosity, hands-on labs, and constant experimentation in real-world hacking scenarios.
 
 ---
 
@@ -20,7 +22,7 @@ Skilled in using industry-standard tools like **Nmap**, **Burp Suite**, **Metasp
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -28,6 +30,7 @@ Skilled in using industry-standard tools like **Nmap**, **Burp Suite**, **Metasp
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Nmap-9E4784?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Burp_Suite-FE7F00?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
@@ -39,16 +42,24 @@ Skilled in using industry-standard tools like **Nmap**, **Burp Suite**, **Metasp
 ---
 
 ### 🎓 Education  
-- M.E.S College, Kunnukara (2019–2022)  
-- Offenso Hackers Academy (2025–Present)  
+- **M.E.S College, Kunnukara (2019–2022)**  
+- **Offenso Hackers Academy (2025–Present)**  
 
-💬 Building a strong foundation in security principles, networking, and ethical hacking through applied learning.  
+📚 Building a solid foundation in security principles, networking, and ethical hacking through applied learning.
 
 ---
 
 ### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulkrishnar16&theme=radical" alt="GitHub Streak" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gokulkrishnar16&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkrishnar16&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -56,7 +67,7 @@ Skilled in using industry-standard tools like **Nmap**, **Burp Suite**, **Metasp
 
 ### 👁️ Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokulkrishnar16" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gokulkrishnar16&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
@@ -64,19 +75,20 @@ Skilled in using industry-standard tools like **Nmap**, **Burp Suite**, **Metasp
 ### 📫 Connect with Me  
 
 <p align="center">
-  <a href="mailto:gokulkrishnar16@gmail.com" title="Email">  
-    <img src="https://img.icons8.com/ios-filled/24/00A8E8/email.png" alt="Email" />  
+  <a href="mailto:gokulkrishnar16@gmail.com" title="Email">
+    <img src="https://img.icons8.com/ios-filled/30/00A8E8/email.png" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gokul-krishna-r-06a45136a" target="_blank" title="LinkedIn">  
-    <img src="https://img.icons8.com/ios-filled/24/00A8E8/linkedin.png" alt="LinkedIn" />  
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gokul-krishna-r-06a45136a" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/30/00A8E8/linkedin.png" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/gokulkrishnar16" target="_blank" title="GitHub">  
-    <img src="https://img.icons8.com/ios-glyphs/24/00A8E8/github.png" alt="GitHub" />  
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gokulkrishnar16" target="_blank" title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/30/00A8E8/github.png" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-🔥 *“Hack to learn, learn to secure.”*
+<h3 align="center">🔥 “Hack to learn, learn to secure.” 🔥</h3>
+
